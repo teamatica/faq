@@ -142,7 +142,7 @@ Teamatica пригодится любым рабочим коллективам 
 <br/>
 ### ❓ А как справочник открыть в браузере онлайн?
 
-Teamatica на текущий момент работает исключительно как [приложение для Windows](https://apps.microsoft.com/detail/xp8lvlmtsbd7wf).
+Teamatica на текущий момент работает исключительно как [приложение для Windows](https://apps.microsoft.com/detail/xp8lvlmtsbd7wf), но всегда можно выбрать что-нибудь подходящее из [аналогичных систем](https://teamatica.org/list.txt), благо их количество регулярно пополняется.
 <br/>
 <br/>
 <br/>
